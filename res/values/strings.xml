@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">TakePhoto</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="cancel">取消</string>
+    <string name="take_photo">拍照</string>
+    <string name="album">相册</string>
+    <string name="rework">重拍</string>
+    <string name="preview">预览</string>
+    <string name="upload">上传</string>
+
+</resources>
